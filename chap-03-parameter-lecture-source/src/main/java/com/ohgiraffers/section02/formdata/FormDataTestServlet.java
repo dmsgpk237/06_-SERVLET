@@ -48,6 +48,5 @@ public class FormDataTestServlet extends HttpServlet {
             System.out.println(names.nextElement());
         }
 
-
     }
 }
