@@ -1,4 +1,4 @@
-package com.ohgiraffers;
+package com.ohgiraffers.section01.othersite;
 
 import jakarta.servlet.*;
 import jakarta.servlet.http.*;
