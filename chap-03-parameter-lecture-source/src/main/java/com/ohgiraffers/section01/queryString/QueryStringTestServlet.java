@@ -17,7 +17,7 @@ public class QueryStringTestServlet extends HttpServlet {
     * GET 요청에 대해서는 doGet() 메소드를 호출하고 request, response를 전달한다.
     * */
 
-    // service로부터 전달받은HttpServleRequest는
+    // service로부터 전달받은 HttpServleRequest는
     // 요청시 전달한 값을 getParameter()메소드로 추출할 수 있다.
         String name = request.getParameter("name");
         System.out.println("이름 : " + name);

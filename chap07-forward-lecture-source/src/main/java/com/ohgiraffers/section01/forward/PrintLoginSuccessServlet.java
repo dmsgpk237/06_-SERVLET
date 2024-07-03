@@ -12,7 +12,7 @@ public class PrintLoginSuccessServlet extends HttpServlet {
 
     /*
     * forward 할 때 전달한 request와 response의 모든 정보를 이용해 새로운 request와 response를 만들고,
-    * 그 정보를 이용해 다시 http 메소드에 맞는 서블릿의 goget 혹은 gopost를 요청하는 방식
+    * 그 정보를 이용해 다시 http 메소드에 맞는 서블릿의 doGet 혹은 doPost를 요청하는 방식
     * 깊은 복사를 이용해 값을 그대로 복사했기 때문에 내부에 존재하는 헤더나 인스턴스는 그대로 유지하고 있다.
     * */
     @Override
