@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d15dbb3-62af-4dbf-a1ce-69efa352eb0d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../chap04-request-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-request-lecture-source/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap05-response-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05-response-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,6 +172,8 @@
       <workItem from="1719818855056" duration="637000" />
       <workItem from="1719823711161" duration="40000" />
       <workItem from="1719909356043" duration="40000" />
+      <workItem from="1719997061564" duration="517000" />
+      <workItem from="1720054383780" duration="41000" />
     </task>
     <servers />
   </component>
